@@ -40,6 +40,16 @@ If pip fails to install those then try upgrading pip to the latest or try instal
 
 Note: the instructions above make it look extremely difficult to use this program. However, it is really simple. By default when you run the Transpire.py script it will try to install all requirements for you. I just included these instructions so that even beginners can get this program up and running if they run into unexpected issues. Even advanced users might find these instructions useful so that why they're here. 
 
+## Downloads
+
+**[`Download Transpire`](https://github.com/Dalton-Overlin/Transpire/blob/master/Transpire.py "`Python Transpire Python script.`")**
+
+**[`Download Requirements.txt`](https://github.com/Dalton-Overlin/Transpire/blob/master/requirements.txt "`The requirements.txt file for installing the required modules.`")**
+
+**[`Download License.txt`](https://github.com/Dalton-Overlin/Transpire/blob/master/License.txt "`The License.txt file.`")**
+
+**[`Download Transpire-Wallpaper.png`](https://github.com/Dalton-Overlin/Transpire/blob/master/Transpire-Wallpaper.png "`Transpire-Wallpaper.png Photo.`")**
+
 ## **What is Transpire**
 ![Program GUI Display](https://user-images.githubusercontent.com/30564402/77599083-3f6fe100-6ec9-11ea-8a02-33b31339e060.jpg)
 
@@ -82,6 +92,7 @@ My recommendation is to test this program out, by synchronizing a device that do
 **MIT License**
 
 Copyright (c) 2020 Dalton Overlin https://github.com/Dalton-Overlin/Transpire
+
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
@@ -144,4 +155,4 @@ The "data.dat" file holds the path to the home folder that the program will sync
 The exit button in the program is self-explanatory: when clicked, it terminates the program. It means to close/terminate/exit the program. So this function requires no explanation. 
 
 ###  **Note **
-Do you like the Transpire graphics? I inlcuded the logo named Transpire-Wallpaper.png in the github repository if you would like to set it as your computer wallpaper. Just incase :)
+Do you like the Transpire graphics? I included the logo named Transpire-Wallpaper.png in the github repository if you would like to use it. Just incase :)
