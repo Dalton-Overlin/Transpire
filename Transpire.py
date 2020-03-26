@@ -22,7 +22,7 @@
 MIT License
 -----------
 
-Copyright (c) 2020 Dalton Overlin (http://www.example.com/)
+Copyright (c) 2020 Dalton Overlin https://github.com/Dalton-Overlin/Transpire
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
@@ -321,7 +321,7 @@ if tack == False:
     dearWorld="""MIT License
 -----------
 
-Copyright (c) 2020 Dalton Overlin (http://www.example.com/)
+Copyright (c) 2020 Dalton Overlin https://github.com/Dalton-Overlin/Transpire
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
@@ -446,6 +446,7 @@ def aboutMe():
 Coded by: Dalton Overlin.
 Date of Last Revision to Code: March. 25, 2020
 Developed for Python3 using Python: 3.8.1
+Homepage: https://github.com/Dalton-Overlin/Transpire
 
 Home Folder (Set Directory to Sync From)
 
