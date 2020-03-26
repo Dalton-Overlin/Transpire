@@ -1,0 +1,17 @@
+# These are the requirements for Transpire to run.
+# To install cd using the commandline, to the directory where this file is stored.
+# Next run this command below.
+# pip install -r requirements.txt
+# If the above command fails try this one below.
+# python -m pip install -r requirements.txt
+# If you dont want to cd to the directory where the file is stored - 
+# then use the full path to the requirements.txt file, here are - 
+# some examples below of how to use the full path.
+# pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"
+# python -m pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"
+
+# These are the modules below that will be installed.
+ 
+pip == 20.0.2
+colorama == 0.4.3
+dirsync == 2.2.4

@@ -1,0 +1,8 @@
+Transpire Version History Log
+#############################
+
+Version 1.0
+Last edited date: March. 25, 2020
+Description: This is the initial program release so no changes or bug fixes are listed for this version because all these were done during the developement of this program. 
+Changes: None
+Bugs fixed: None
