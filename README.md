@@ -1,6 +1,6 @@
 ![Image](https://user-images.githubusercontent.com/30564402/77599033-10596f80-6ec9-11ea-87ca-3d15fa4684d2.jpg)
 
-## **Getting Started**
+## **Getting Started with Transpire**
 
 - This program requires Python 3. 
 
