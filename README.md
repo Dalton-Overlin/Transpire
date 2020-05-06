@@ -49,7 +49,7 @@ Guess what, its here, Transpire V.2 that no longer needs any third party modules
 
 **[`Download Transpire`](https://github.com/Dalton-Overlin/Transpire/blob/master/Transpire.py "`Python Transpire Python script.`")**
 
-**[`Download Requirements.txt`](https://github.com/Dalton-Overlin/Transpire/blob/master/requirements.txt "`The requirements.txt file for installing the required modules.`")**
+**[`Download Requirements.txt`](https://github.com/Dalton-Overlin/Transpire/blob/master/V.1/requirements.txt "`The requirements.txt file for installing the required modules.`")**
 
 **[`Download License.txt`](https://github.com/Dalton-Overlin/Transpire/blob/master/License.txt "`The License.txt file.`")**
 
