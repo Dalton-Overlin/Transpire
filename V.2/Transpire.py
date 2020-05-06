@@ -109,9 +109,7 @@ def foldera(From,To):
         NextDirs.sort()
         for t in NextDirs:
             foldera(t[0],t[1])
-def sync(From,To,z):
-    z+=1
-    print('z : Depth : ',z)
+def sync(From,To):
     A=os.listdir(From)
     A.sort()
     B=os.listdir(To)
@@ -177,7 +175,7 @@ def sync(From,To,z):
     if NextDepth!=[]:
         NextDepth.sort()
         for t in NextDepth:
-            sync(t[0],t[1],z)
+            sync(t[0],t[1])
 def clearScreen():
     os.system('cls' if os.name == 'nt' else "printf '\033c'")
 class ex:
@@ -764,7 +762,7 @@ def deleteIt(toDelete):
 def syncEm(source,target):
     while True:
         if os.access(target, os.W_OK) and os.access(source, os.R_OK):
-            sync(source, target,"sync",z)
+            sync(source, target)
             return
         else:
             land = handler(False,source,target)
