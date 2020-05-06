@@ -9,9 +9,9 @@ Guess what, its here, Transpire V.2 that no longer needs any third party modules
 
 - This program requires Python 3. 
 
-- You need these modules installed: **( os, string, tkinter, shutil, ~~dirsync~~, time, ~~colorama, importlib~~ )**. 
+- You need these modules installed: **( os, string, tkinter, shutil, sys, ~~dirsync~~, time, ~~colorama, importlib~~ )**. 
 
-- By default Python 3 comes with these packages: **( os, string, shutil, time, ~~importlib~~, tkinter )**.
+- By default Python 3 comes with these packages: **( os, string, shutil, sys, time, ~~importlib~~, tkinter )**.
 
 - ~~So you probably only need to install these modules: **( dirsync, colorama )**.~~
 
