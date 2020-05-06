@@ -1,0 +1,20 @@
+Transpire Version History Log
+#############################
+
+Version 1.0
+Last edited date: March. 25, 2020
+Description: This is the initial program release so no changes or bug fixes are listed for this version because all these were done during the developement of this program. 
+
+Changes: None
+
+Bugs fixed: None
+
+#############################
+
+Version 2.0
+Last edited date: April. 5, 2020
+Description: This is the second update to this program. Edits include removing the need for third party modules such as dirsync and colorama. The program now does not need any third party modules to run. Removal of the printing of the word Transpire in a large style was removed in order to increase efficiency. Removed the auto installer for missing modules because no third party modules are needed, as all modules used should come pre built in python. Plus the removal of a few minor bugs that caused the program to act unexpectedly. 
+
+Changes: Removed need for third party modules, removed large Transpire word display for efficiency, and corrected minor bugs. 
+
+Bugs fixed: Fixed two invalid function calls that sometimes caused the program to glitch and cause GUI to freeze. 
