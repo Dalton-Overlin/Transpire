@@ -1,4 +1,9 @@
+
 ![Image](https://user-images.githubusercontent.com/30564402/77599033-10596f80-6ec9-11ea-87ca-3d15fa4684d2.jpg)
+
+## **Whats New with Transpire**
+
+Guess what, its here, Transpire V.2 that no longer needs any third party modules to run. I removed the need for dirsync and colorama. The program uses only modules that come with Python by default so no extra installations are needed. The removal of the printing of the large word Transpire has also been removed, it was too bulky and slowed the program down. So it's toast, so is the need for the missing module installer code. I've tested the program on large swaths of files and all works well so far. But as always should you come accros a bug please raise an issue with a description of the issue and I will try and fix it ASAP!
 
 ## **Getting Started with Transpire**
 
@@ -6,39 +11,39 @@
 
 - You need these modules installed: **( os, string, tkinter, shutil, dirsync, time, colorama, importlib )**. 
 
-- By default Python 3 comes with these packages: **( os, string, shutil, time, importlib, tkinter )**.
+- By default Python 3 comes with these packages: **( os, string, shutil, time, ~~importlib~~, tkinter )**.
 
-- So you probably only need to install these modules: **( dirsync, colorama )**.
+- ~~So you probably only need to install these modules: **( dirsync, colorama )**.~~
 
-When you first run this script it will check if those modules are installed. If they are not, then the script will try to automatically install them. However, sometimes the automated module installer doesnt work 100% of the time. Thats why I have included a **requirements.txt** file that you can use to install all modules in a few simple commands. 
+~~When you first run this script it will check if those modules are installed. If they are not, then the script will try to automatically install them. However, sometimes the automated module installer doesnt work 100% of the time. Thats why I have included a **requirements.txt** file that you can use to install all modules in a few simple commands.~~ 
 
 ## **Manually Installing Requirements**
 
-Open a terminal, and cd to the directory where the requirements.txt file is located. Then enter this command:  **pip install -r requirements.txt**
+~~Open a terminal, and cd to the directory where the requirements.txt file is located. Then enter this command:  **pip install -r requirements.txt**~~
 
-- **Here below is a stricter guide for manually installing the dependencies.**
-- To install needed modules CD to the directory where the file requirements.txt is stored.
-- For command-line example: cd "C:\Users\Example\Desktop"
-- Next, run this command below.
-- pip install -r requirements.txt
-- If the above command fails try this one below.
-- python -m pip install -r requirements.txt
-- If you don't want to cd to the directory where the file is stored then use the full path to the requirements.txt file, here are some examples below of how to use the full path.
-- pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"
-- python -m pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"
+- ~~**Here below is a stricter guide for manually installing the dependencies.**~~
+- ~~To install needed modules CD to the directory where the file requirements.txt is stored.~~
+- ~~For command-line example: cd "C:\Users\Example\Desktop"~~
+- ~~Next, run this command below.~~
+- ~~pip install -r requirements.txt~~
+- ~~If the above command fails try this one below.~~
+- ~~python -m pip install -r requirements.txt~~
+- ~~If you don't want to cd to the directory where the file is stored then use the full path to the requirements.txt file, here are some examples below of how to use the full path.~~
+- ~~pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"~~
+- ~~python -m pip install -r "C:\Users\Your-Username\Desktop\requirements.txt"~~
 
-Thats it, then just run the Transpire.py script. If you have Python 3 installed you can normally just click the script file and it will run. However, sometimes you have to run the script by calling it from the command line on systems like Linux. So, if your unfamiliar with this process heres a nice guide I found on how to run a Python script: https://www.datacamp.com/community/tutorials/running-a-python-script
+~~Thats it, then just run the Transpire.py script. If you have Python 3 installed you can normally just click the script file and it will run. However, sometimes you have to run the script by calling it from the command line on systems like Linux. So, if your unfamiliar with this process heres a nice guide I found on how to run a Python script: https://www.datacamp.com/community/tutorials/running-a-python-script~~
 
-Theoretically, this program works with all versions of these modules ( dirsync, colorama ). But, it is possible future versions of those modules could cause the program to break. So, if they do break then uninstall the newer version of those modules and use the requirements.txt file and it will install specific versions of those modules which have been tested to work with this program. Or run these commands below to manually install the tested versions of these modules using pip.
+~~Theoretically, this program works with all versions of these modules ( dirsync, colorama ). But, it is possible future versions of those modules could cause the program to break. So, if they do break then uninstall the newer version of those modules and use the requirements.txt file and it will install specific versions of those modules which have been tested to work with this program. Or run these commands below to manually install the tested versions of these modules using pip.~~
 
-- **python -m pip install colorama == 0.4.3**
-- **python -m pip install dirsync == 2.2.4**
+~~- **python -m pip install colorama == 0.4.3**~~
+- ~~**python -m pip install dirsync == 2.2.4**~~
 
-If pip fails to install those then try upgrading pip to the latest or try installing this specific pip version using the below command. 
+~~If pip fails to install those then try upgrading pip to the latest or try installing this specific pip version using the below command.~~ 
 
-- **python -m pip install pip == 20.0.2**
+- ~~**python -m pip install pip == 20.0.2**~~
 
-Note: the instructions above make it look extremely difficult to use this program. However, it is really simple. By default when you run the Transpire.py script it will try to install all requirements for you. I just included these instructions so that even beginners can get this program up and running if they run into unexpected issues. Even advanced users might find these instructions useful so that why they're here. 
+~~Note: the instructions above make it look extremely difficult to use this program. However, it is really simple. By default when you run the Transpire.py script it will try to install all requirements for you. I just included these instructions so that even beginners can get this program up and running if they run into unexpected issues. Even advanced users might find these instructions useful so that why they're here.~~ 
 
 ## Downloads
 
