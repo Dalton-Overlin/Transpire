@@ -3,7 +3,7 @@
 
 ## **Whats New with Transpire**
 
-Guess what, its here, Transpire V.2 that no longer needs any third party modules to run. I removed the need for dirsync and colorama. The program uses only modules that come with Python by default so no extra installations are needed. The removal of the printing of the large word Transpire has also been removed, it was too bulky and slowed the program down. So it's toast, so is the need for the missing module installer code. I've tested the program on large swaths of files and all works well so far. But as always should you come accros a bug please raise an issue with a description of the issue and I will try and fix it ASAP!
+Guess what, its here, Transpire V.2 & V.2.1, that no longer needs any third party modules to run. I removed the need for dirsync and colorama. The program uses only modules that come with Python by default so no extra installations are needed. The removal of the printing of the large word Transpire has also been removed, it was too bulky and slowed the program down. So it's toast, so is the need for the missing module installer code. I've tested the program on large swaths of files and all works well so far. But as always should you come accros a bug please raise an issue with a description of the issue and I will try and fix it ASAP!
 
 ## **Getting Started with Transpire**
 
@@ -56,7 +56,7 @@ Guess what, its here, Transpire V.2 that no longer needs any third party modules
 **[`Download Transpire-Wallpaper.png`](https://github.com/Dalton-Overlin/Transpire/blob/master/Transpire-Wallpaper.png "`Transpire-Wallpaper.png Photo.`")**
 
 ## **What is Transpire**
-![Program GUI Display](https://user-images.githubusercontent.com/30564402/77599083-3f6fe100-6ec9-11ea-8a02-33b31339e060.jpg)
+![Capture](https://user-images.githubusercontent.com/30564402/83060270-6c02bf00-a018-11ea-8330-a5f0fa398e3d.PNG)
 
 Transpire is a program designed to sync music from a home folder to external devices. This program uses a home folder (home folder meaning where the content will come from) and synchronizes the data from the home folder to the external devices you're synchronizing. The program allows you to customize what folders and files from the home folder will be synced to each device. This program creates an Adagio.chrd file on the external device you want to sink to. 
 
