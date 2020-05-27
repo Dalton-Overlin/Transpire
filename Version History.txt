@@ -18,3 +18,13 @@ Description: This is the second update to this program. Edits include removing t
 Changes: Removed need for third party modules, removed large Transpire word display for efficiency, and corrected minor bugs. 
 
 Bugs fixed: Fixed two invalid function calls that sometimes caused the program to glitch and cause GUI to freeze. 
+
+#############################
+
+Version 2.1
+Last edited date: May. 27th, 2020
+Description: This was a quality and efficiency update built from V.2 of Transpire updating to V.2.1 with many changes. 
+
+Changes: Changed the images displayed by the program for the GUI, added a icon, and fixed a few bugs. There were many bug fixes, none of which were major. All bugs fixed pertained to the GUI display of Transpire. I also rearranged pieces of code to improve the speed of the program while removing and simplifying code for speed.  
+
+Bugs fixed: Fixed two invalid function calls that sometimes caused the program to glitch and cause GUI to freeze. 
