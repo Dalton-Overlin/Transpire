@@ -24,7 +24,6 @@ Download Transpire.exe and run it on a Windows OS. I have verified this program 
 
 This version launches quicker, but all program files are extracted so it looks a little messy. You would probably want to create a shortcut to the Transpire.exe file to make it easier to launch.
 
-Download Transpire.zip 
 **[`Download Transpire.zip `](https://github.com/Dalton-Overlin/Transpire/blob/master/Windows%20Executables/Transpire.zip "`Download Transpire.zip `")**
 
 ## **Instructions**
