@@ -5,7 +5,33 @@
 
 Guess what, its here, Transpire V.2 & V.2.1, that no longer needs any third party modules to run. I removed the need for dirsync and colorama. The program uses only modules that come with Python by default so no extra installations are needed. The removal of the printing of the large word Transpire has also been removed, it was too bulky and slowed the program down. So it's toast, so is the need for the missing module installer code. I've tested the program on large swaths of files and all works well so far. But as always should you come accros a bug please raise an issue with a description of the issue and I will try and fix it ASAP!
 
-## **Getting Started with Transpire**
+
+## **Transpire for Windows OS**
+
+I have compiled Transpire to run on Windows. There are two compiled versions of Transpire. The first version is a standalone executable file where all files are stored in a single file. The second version is a zipped folder containing the program files and the Transpire.exe file which can run on Windows also. The difference is that the single Transpire.exe file takes longer to start up on Windows, while the one in the zipped folder starts up much faster because all files aren't compressed into a single file. 
+
+## **Version One**
+
+This version takes longer to launch, but the benefits are that all files are stored in a single executable file. 
+
+**[`Download the Transpire.exe `](https://github.com/Dalton-Overlin/Transpire/blob/master/Windows%20Executables/Transpire.exe "`Download the Transpire.exe `")**
+
+## **Instructions**
+
+Download Transpire.exe and run it on a Windows OS. I have verified this program to run on Windows 8.1, and Windows 10. Presumably, it will work on Windows 7, but I have not verified this. 
+
+## **Version Two**
+
+This version launches quicker, but all program files are extracted so it looks a little messy. You would probably want to create a shortcut to the Transpire.exe file to make it easier to launch.
+
+Download Transpire.zip 
+**[`Download Transpire.zip `](https://github.com/Dalton-Overlin/Transpire/blob/master/Windows%20Executables/Transpire.zip "`Download Transpire.zip `")**
+
+## **Instructions**
+
+Download the zipped file, then extract the zipped file. Once you do you can run the program by running the Transpire.exe file. To make it easier you may want to create a shortcut and place it somewhere on your device that will make it easier for you to launch the program in the future. This way you don't have to sort through all the files to find the Transpire.exe file each time. 
+
+## **Getting Started with Transpire Using the Python Script**
 
 - This program requires Python 3. 
 
