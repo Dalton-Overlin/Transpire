@@ -12,6 +12,6 @@
 
 # These are the modules below that will be installed.
  
-pip == 20.0.2
+pip == 21.1
 colorama == 0.4.3
 dirsync == 2.2.4
